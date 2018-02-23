@@ -13,6 +13,6 @@ https://www.youtube.com/watch?v=oPpnCh7InLY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6z
 
 Useful Tip
 
-> Open .
+$ Open .
 
 
