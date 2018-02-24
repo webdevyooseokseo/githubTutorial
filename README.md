@@ -5,7 +5,7 @@ inspired by
 
 Git and GitHub for Poets
 
-1.1: Introduction 
+1.1: Introduction   
 https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s
 
 1.2: Branches  
