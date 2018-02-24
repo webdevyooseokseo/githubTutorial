@@ -20,6 +20,9 @@ https://www.youtube.com/watch?v=WMykv2ZMyEQ
 1.5: Intro to the Command Line<br />
 https://www.youtube.com/watch?v=oK8EvVeVltE&t=122s
 
+1.6: Cloning Repo and Push/Pull<br />
+https://www.youtube.com/watch?v=yXT1ElMEkW8&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=6
+
 
 
 
