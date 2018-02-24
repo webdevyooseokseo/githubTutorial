@@ -7,19 +7,19 @@ Git and GitHub for Poets
 
 1.1: Introduction<br />  
 https://www.youtube.com/watch?v=BCQHnlnPusY&index=1&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s
-<br />
+
 1.2: Branches<br />  
 https://www.youtube.com/watch?v=oPpnCh7InLY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=2
-<br />
+
 1.3: Forks and Pull Requests<br /><br /> 
 https://www.youtube.com/watch?v=_NrSWLQsDL4
-<br />
+
 1.4: GitHub Issues<br /><br /> 
 https://www.youtube.com/watch?v=WMykv2ZMyEQ
-<br />
+
 1.5: Intro to the Command Line<br /><br /> 
 https://www.youtube.com/watch?v=oK8EvVeVltE&t=122s
-<br />
+
 
 
 
