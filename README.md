@@ -35,4 +35,6 @@ $ git config --global user.name "{{username here}}"
   
 $ git config --global user.email {useremail@email.com here}
 
+$ git config --list
+
 
